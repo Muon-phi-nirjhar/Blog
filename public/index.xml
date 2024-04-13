@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Apr 2024 00:14:35 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Apr 2024 00:14:35 +0600</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction Hi there!, My name is Nirjhar. An amature physics lover to be precise.This is my blog website, where I will post about my recent projects and works.I&amp;rsquo;m tagging here my recent project , which is a website made for to help new olympiadians also help who are not new to this, yet need some resources. This website contains questions from other countries physics olympiads , also I had put some pdfs of some physics books, which will help those who are going to participate phy olympiad.</description>
+    </item>
+  </channel>
+</rss>
